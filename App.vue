@@ -30,7 +30,7 @@
 
 
 <script>
-import senDis from '.senDis.js'
+import senDis from './senDis.js'
 export default {
     data() {
       return {
